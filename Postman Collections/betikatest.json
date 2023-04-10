@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "9a19adbc-ee33-4e86-a454-18d7c5a595ec",
+		"name": "Betika",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"_postman_id": "75e1448b-bfe8-4f52-9e5c-3159c5b8dfc1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
